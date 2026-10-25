@@ -1,0 +1,1 @@
+El proyecto original Swing está en el archivo ZIP que subiste; esta carpeta es su adaptación web usando las mismas clases Producto y BaseDatos, con ajustes a la ruta de SQLite.
